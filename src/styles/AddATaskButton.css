@@ -1,0 +1,12 @@
+h2 {
+    float: left;
+}
+
+#addBtn {
+    border-radius: 50%;
+}
+
+label {
+    float: left;
+    font-weight: 600;
+}
